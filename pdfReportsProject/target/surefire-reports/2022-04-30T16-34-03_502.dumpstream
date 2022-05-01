@@ -1,0 +1,5 @@
+# Created at 2022-04-30T16:34:04.741
+Boot Manifest-JAR contains absolute paths in classpath 'E:\workspace\pdfReportsProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
